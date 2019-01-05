@@ -6,7 +6,9 @@
 - Generador de password
 - Slider
 - Notas
+- Convertidor de temperatura
 - Convertidor de unidades 
+- Segunda ley de newton
 
 ## JAVA
 
@@ -14,10 +16,19 @@
 - Generador de password
 - Notas 
 - Cargar CSV en tabla
+- Convertidor de temperatura
+- Segunda ley de newton
 
 
 ## CSS (Flexbox)
 
 - Calculadora
 - Galeria
+- Estructura basica 
 - 
+
+# JAVA Electronic
+
+- Ley de Ohm
+- Capacitores
+- serie / paralelo
