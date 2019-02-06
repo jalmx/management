@@ -24,8 +24,9 @@
 
 - Calculadora
 - Galeria
-- Estructura basica 
-- 
+- Estructura básica
+- ventana de alerta
+- Datapicker
 
 # JAVA Electronic
 
